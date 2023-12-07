@@ -6,10 +6,12 @@ The facial feature detection model implemented here utilizes the ResNet-18 archi
 
 **Usage**
 **Installation**
-Clone this repository:
+1. Clone this repository:
 git clone https://github.com/pavanibillapati/Facial-features-detection.git
-cd facial-feature-detection
-Run Facial features detection.ipynb
+
+2. cd facial-feature-detection
+
+3. Run Facial features detection.ipynb
 
 Data set is available at http://dlib.net/files/data/ibug_300W_large_face_landmark_dataset.tar.gz website
 
